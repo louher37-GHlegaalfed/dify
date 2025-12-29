@@ -226,7 +226,7 @@ At the same time, please consider supporting Dify by sharing it on social media 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=langgenius/dify&type=Date)](https://star-history.com/#langgenius/dify&Date)
 
-## Security disclosure
+## Security disclosure/governance/codeetics//sovereignty:GHcode/2020
 
 To protect your privacy, please avoid posting security issues on GitHub. Instead, report issues to security@dify.ai, and our team will respond with detailed answer.
 
